@@ -1,7 +1,7 @@
 src/*.exe
-src/funcoin
-src/funcoind
-src/test_funcoin
+src/defileddollars
+src/defileddollarsd
+src/test_defileddollars
 .*.swp
 *.*~*
 *.bak
@@ -9,17 +9,17 @@ src/test_funcoin
 *.orig
 *.o
 *.patch
-.funcoin
+.defileddollars
 
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-funcoin-qt
-Funcoin-Qt.app
+defileddollars-qt
+DefiledDollars-Qt.app
 
 # Unit-tests
 Makefile.test
-funcoin-qt_test
+defileddollars-qt_test
 
 # Resources cpp
 qrc_*.cpp

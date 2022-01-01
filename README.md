@@ -1,12 +1,12 @@
-Funcoin 
+DefiledDollars 
 ================================
 
-What is Funcoin?
+What is DefiledDollars?
 
-Funcoin is a clone of Litecoin I made as part of a Youtube series documenting the process. 
+DefiledDollars is a clone of Litecoin I made as part of a Youtube series documenting the process. 
 [Series Playlist](https://www.youtube.com/playlist?list=PLHWfvuRy-9gdCv2oD_Ywd0swNF3N8mXt-&disable_polymer=true)
 
-Funcoin basic properties:
+DefiledDollars basic properties:
 
 -Initial reward of 20 coins
 
@@ -14,10 +14,10 @@ Funcoin basic properties:
 
 -Maximum supply of ~400k coins
 
-[Funcoin Block Explorer](http://159.65.188.63:8000/)
+[DefiledDollars Block Explorer](http://159.65.188.63:8000/)
 
-[Funcoin Faucet](http://159.65.188.63/)
+[DefiledDollars Faucet](http://159.65.188.63/)
 
-[Funcoin Mining Pool](https://funpool.mybloodhurts.com/)
+[DefiledDollars Mining Pool](https://funpool.mybloodhurts.com/)
 
-# [Funcoin Release](https://github.com/schyczewski/funcoin/releases/tag/v0.8)
+# [DefiledDollars Release](https://github.com/schyczewski/defileddollars/releases/tag/v0.8)

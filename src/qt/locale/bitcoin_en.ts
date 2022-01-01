@@ -6,13 +6,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Funcoin</source>
-        <translation>About Funcoin</translation>
+        <source>About DefiledDollars</source>
+        <translation>About DefiledDollars</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Funcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Funcoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;DefiledDollars&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;DefiledDollars&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -36,8 +36,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Funcoin developers</source>
-        <translation>The Funcoin developers</translation>
+        <source>The Litecoin Developers</source>
+        <translation>The Litecoin Developers</translation>
     </message>
 </context>
 <context>
@@ -69,8 +69,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your Funcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your Funcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your DefiledDollars addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your DefiledDollars addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -84,8 +84,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Funcoin address</source>
-        <translation>Sign a message to prove you own a Funcoin address</translation>
+        <source>Sign a message to prove you own a DefiledDollars address</source>
+        <translation>Sign a message to prove you own a DefiledDollars address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -109,8 +109,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified Funcoin address</source>
-        <translation>Verify a message to ensure it was signed with a specified Funcoin address</translation>
+        <source>Verify a message to ensure it was signed with a specified DefiledDollars address</source>
+        <translation>Verify a message to ensure it was signed with a specified DefiledDollars address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -124,8 +124,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your Funcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your Funcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <source>These are your DefiledDollars addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your DefiledDollars addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -250,8 +250,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FUNCOINS&lt;/b&gt;!</source>
-        <translation>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FUNCOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DEFILEDDOLLARSS&lt;/b&gt;!</source>
+        <translation>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DEFILEDDOLLARSS&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -277,8 +277,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Funcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your funcoins from being stolen by malware infecting your computer.</source>
-        <translation>Funcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your funcoins from being stolen by malware infecting your computer.</translation>
+        <source>DefiledDollars will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your defileddollarss from being stolen by malware infecting your computer.</source>
+        <translation>DefiledDollars will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your defileddollarss from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -376,8 +376,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Funcoin</source>
-        <translation>Show information about Funcoin</translation>
+        <source>Show information about DefiledDollars</source>
+        <translation>Show information about DefiledDollars</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -421,13 +421,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a Funcoin address</source>
-        <translation>Send coins to a Funcoin address</translation>
+        <source>Send coins to a DefiledDollars address</source>
+        <translation>Send coins to a DefiledDollars address</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Funcoin</source>
-        <translation>Modify configuration options for Funcoin</translation>
+        <source>Modify configuration options for DefiledDollars</source>
+        <translation>Modify configuration options for DefiledDollars</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -457,8 +457,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>Funcoin</source>
-        <translation>Funcoin</translation>
+        <source>DefiledDollars</source>
+        <translation>DefiledDollars</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About Funcoin</source>
-        <translation>&amp;About Funcoin</translation>
+        <source>&amp;About DefiledDollars</source>
+        <translation>&amp;About DefiledDollars</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -502,13 +502,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Funcoin addresses to prove you own them</source>
-        <translation>Sign messages with your Funcoin addresses to prove you own them</translation>
+        <source>Sign messages with your DefiledDollars addresses to prove you own them</source>
+        <translation>Sign messages with your DefiledDollars addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Funcoin addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Funcoin addresses</translation>
+        <source>Verify messages to ensure they were signed with specified DefiledDollars addresses</source>
+        <translation>Verify messages to ensure they were signed with specified DefiledDollars addresses</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -538,15 +538,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+47"/>
-        <source>Funcoin client</source>
-        <translation>Funcoin client</translation>
+        <source>DefiledDollars client</source>
+        <translation>DefiledDollars client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to Funcoin network</source>
+        <source>%n active connection(s) to DefiledDollars network</source>
         <translation>
-            <numerusform>%n active connection to Funcoin network</numerusform>
-            <numerusform>%n active connections to Funcoin network</numerusform>
+            <numerusform>%n active connection to DefiledDollars network</numerusform>
+            <numerusform>%n active connections to DefiledDollars network</numerusform>
         </translation>
     </message>
     <message>
@@ -670,8 +670,8 @@ Address: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid Funcoin address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid Funcoin address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid DefiledDollars address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid DefiledDollars address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -685,8 +685,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. Funcoin can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. Funcoin can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. DefiledDollars can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. DefiledDollars can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -751,8 +751,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Funcoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Funcoin address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid DefiledDollars address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid DefiledDollars address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -770,8 +770,8 @@ Address: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>Funcoin-Qt</source>
-        <translation>Funcoin-Qt</translation>
+        <source>DefiledDollars-Qt</source>
+        <translation>DefiledDollars-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -833,13 +833,13 @@ Address: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Funcoin after logging in to the system.</source>
-        <translation>Automatically start Funcoin after logging in to the system.</translation>
+        <source>Automatically start DefiledDollars after logging in to the system.</source>
+        <translation>Automatically start DefiledDollars after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Funcoin on system login</source>
-        <translation>&amp;Start Funcoin on system login</translation>
+        <source>&amp;Start DefiledDollars on system login</source>
+        <translation>&amp;Start DefiledDollars on system login</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -858,8 +858,8 @@ Address: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Funcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Funcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the DefiledDollars client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the DefiledDollars client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -868,8 +868,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Funcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connect to the Funcoin network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
+        <source>Connect to the DefiledDollars network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connect to the DefiledDollars network through a SOCKS proxy (e.g. when connecting through Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -943,8 +943,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Funcoin.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Funcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting DefiledDollars.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting DefiledDollars.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -958,8 +958,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Funcoin addresses in the transaction list or not.</source>
-        <translation>Whether to show Funcoin addresses in the transaction list or not.</translation>
+        <source>Whether to show DefiledDollars addresses in the transaction list or not.</source>
+        <translation>Whether to show DefiledDollars addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1010,8 +1010,8 @@ Address: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Funcoin.</source>
-        <translation>This setting will take effect after restarting Funcoin.</translation>
+        <source>This setting will take effect after restarting DefiledDollars.</source>
+        <translation>This setting will take effect after restarting DefiledDollars.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1029,8 +1029,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Funcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Funcoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the DefiledDollars network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the DefiledDollars network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1083,8 +1083,8 @@ Address: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start funcoin: click-to-pay handler</source>
-        <translation>Cannot start funcoin: click-to-pay handler</translation>
+        <source>Cannot start defileddollars: click-to-pay handler</source>
+        <translation>Cannot start defileddollars: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1233,8 +1233,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Funcoin-Qt help message to get a list with possible Funcoin command-line options.</source>
-        <translation>Show the Funcoin-Qt help message to get a list with possible Funcoin command-line options.</translation>
+        <source>Show the DefiledDollars-Qt help message to get a list with possible DefiledDollars command-line options.</source>
+        <translation>Show the DefiledDollars-Qt help message to get a list with possible DefiledDollars command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,13 +1253,13 @@ Address: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Funcoin - Debug window</source>
-        <translation>Funcoin - Debug window</translation>
+        <source>DefiledDollars - Debug window</source>
+        <translation>DefiledDollars - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Funcoin Core</source>
-        <translation>Funcoin Core</translation>
+        <source>DefiledDollars Core</source>
+        <translation>DefiledDollars Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1268,8 +1268,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Funcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Funcoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the DefiledDollars debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the DefiledDollars debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1278,8 +1278,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the Funcoin RPC console.</source>
-        <translation>Welcome to the Funcoin RPC console.</translation>
+        <source>Welcome to the DefiledDollars RPC console.</source>
+        <translation>Welcome to the DefiledDollars RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1462,8 +1462,8 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Funcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Enter a Funcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a DefiledDollars address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Enter a DefiledDollars address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1527,8 +1527,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Funcoin address</source>
-        <translation>Sign the message to prove you own this Funcoin address</translation>
+        <source>Sign the message to prove you own this DefiledDollars address</source>
+        <translation>Sign the message to prove you own this DefiledDollars address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1563,8 +1563,8 @@ Address: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Funcoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified Funcoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified DefiledDollars address</source>
+        <translation>Verify the message to ensure it was signed with the specified DefiledDollars address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1579,8 +1579,8 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Funcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Enter a Funcoin address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a DefiledDollars address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Enter a DefiledDollars address (e.g. Ler4HNAEfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1589,8 +1589,8 @@ Address: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Funcoin signature</source>
-        <translation>Enter Funcoin signature</translation>
+        <source>Enter DefiledDollars signature</source>
+        <translation>Enter DefiledDollars signature</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1663,8 +1663,8 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The Funcoin developers</source>
-        <translation>The Funcoin developers</translation>
+        <source>The Litecoin Developers</source>
+        <translation>The Litecoin Developers</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2216,8 +2216,8 @@ Address: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>Funcoin version</source>
-        <translation>Funcoin version</translation>
+        <source>DefiledDollars version</source>
+        <translation>DefiledDollars version</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2226,8 +2226,8 @@ Address: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or funcoind</source>
-        <translation>Send command to -server or funcoind</translation>
+        <source>Send command to -server or defileddollarsd</source>
+        <translation>Send command to -server or defileddollarsd</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2246,13 +2246,13 @@ Address: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: funcoin.conf)</source>
-        <translation>Specify configuration file (default: funcoin.conf)</translation>
+        <source>Specify configuration file (default: defileddollars.conf)</source>
+        <translation>Specify configuration file (default: defileddollars.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: funcoind.pid)</source>
-        <translation>Specify pid file (default: funcoind.pid)</translation>
+        <source>Specify pid file (default: defileddollarsd.pid)</source>
+        <translation>Specify pid file (default: defileddollarsd.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2329,24 +2329,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=funcoinrpc
+rpcuser=defileddollarsrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Funcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;DefiledDollars Alert&quot; admin@foo.com
 </source>
         <translation>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=funcoinrpc
+rpcuser=defileddollarsrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Funcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;DefiledDollars Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2361,8 +2361,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Funcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Funcoin is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s. Funcoin is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. DefiledDollars is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s. DefiledDollars is probably already running.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2406,8 +2406,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Funcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Funcoin will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Funcoin will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DefiledDollars will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong DefiledDollars will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2656,8 +2656,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Funcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the Funcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL options: (see the Funcoin Wiki for SSL setup instructions)</translation>
+        <source>SSL options: (see the DefiledDollars Wiki for SSL setup instructions)</source>
+        <translation>SSL options: (see the DefiledDollars Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2846,13 +2846,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Funcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Funcoin</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Funcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of DefiledDollars</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of DefiledDollars</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart Funcoin to complete</source>
-        <translation>Wallet needed to be rewritten: restart Funcoin to complete</translation>
+        <source>Wallet needed to be rewritten: restart DefiledDollars to complete</source>
+        <translation>Wallet needed to be rewritten: restart DefiledDollars to complete</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2911,8 +2911,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Funcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. Funcoin is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. Funcoin is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. DefiledDollars is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. DefiledDollars is probably already running.</translation>
     </message>
     <message>
         <location line="+64"/>
