@@ -1087,16 +1087,16 @@ uint256 static GetOrphanRoot(const CBlockHeader* pblock)
 
 int64 static GetBlockValue(int nHeight, int64 nFees)
 {
-    int64 nSubsidy = 20 * COIN;
+    int64 nSubsidy = 77 * COIN;
 
     // Subsidy is cut in half every 840000 blocks, which will occur approximately every 4 years
-    nSubsidy >>= (nHeight / 10000); // DefiledDollars: 840k blocks in ~4 years
+    nSubsidy >>= (nHeight / 50505); // DefiledDollars: 840k blocks in ~4 years
 
     return nSubsidy + nFees;
 }
 
-static const int64 nTargetTimespan = 1 * 24 * 60 * 60; // DefiledDollars: 3.5 days
-static const int64 nTargetSpacing = 5 * 60; // DefiledDollars: 2.5 minutes
+static const int64 nTargetTimespan = 2884 * 60; // DefiledDollars: ~2 days
+static const int64 nTargetSpacing = 7 * 60; // DefiledDollars: 7 minutes
 static const int64 nInterval = nTargetTimespan / nTargetSpacing;
 
 //
@@ -2785,7 +2785,7 @@ bool InitBlockIndex() {
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 486604799 << CBigNum(4) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
         txNew.vout[0].nValue = 20 * COIN;
-        txNew.vout[0].scriptPubKey = CScript() << ParseHex("04c51ea81fcb28278f0346c9361703a67401d2819ed3cbcc9f971f941976bdbe48968ef979f09f1e5aafaf33aab9071fea7b99cbcdafb28a7b477f881d899b13af") << OP_CHECKSIG;
+        txNew.vout[0].scriptPubKey = CScript() << ParseHex("043fa3c1965e54a4662b89f0b9ca7598f7433470a4a4ccd4e1e41ca83691596949e773d7bd2f7127427437888ccb37d35d06d33cc76f6a13831c3a0669a6bf941e") << OP_CHECKSIG;
         CBlock block;
         block.vtx.push_back(txNew);
         block.hashPrevBlock = 0;
@@ -3122,7 +3122,7 @@ bool static AlreadyHave(const CInv& inv)
 // The message start string is designed to be unlikely to occur in normal data.
 // The characters are rarely used upper ASCII, not valid as UTF-8, and produce
 // a large 4-byte int at any alignment.
-unsigned char pchMessageStart[4] = { 0xfa, 0xc3, 0xba, 0xd3 }; // DefiledDollars: increase each by adding 2 to bitcoin's value.
+unsigned char pchMessageStart[4] = { 0xfc, 0xc5, 0xb8, 0xd8 }; // DefiledDollars: increase each by adding 2 to bitcoin's value.
 
 
 void static ProcessGetData(CNode* pfrom)
