@@ -35,7 +35,7 @@ CTxMemPool mempool;
 unsigned int nTransactionsUpdated = 0;
 
 map<uint256, CBlockIndex*> mapBlockIndex;
-uint256 hashGenesisBlock("0xe7e59fbb31c56d70a65700857a9744abdaa35a0b459efb254eaa42c8faa3f323");
+uint256 hashGenesisBlock("0xcda63ac61c9e48cb52971274a6d79f44d3b196e3306307cd9e15bdc124a29865");
 static CBigNum bnProofOfWorkLimit(~uint256(0) >> 20); // DefiledDollars: starting difficulty is 1 / 2^12
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
@@ -2779,21 +2779,21 @@ bool InitBlockIndex() {
         //   vMerkleTree: 97ddfbbae6
 
         // Genesis block
-        const char* pszTimestamp = "Doug Jones defeats Roy Moore in Alabama senate election";
+        const char* pszTimestamp = "Destiny 2 Hints at Balance Changes and Returning Weapon for Next Season";
         CTransaction txNew;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 486604799 << CBigNum(4) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
-        txNew.vout[0].nValue = 20 * COIN;
+        txNew.vout[0].nValue = 77 * COIN;
         txNew.vout[0].scriptPubKey = CScript() << ParseHex("043fa3c1965e54a4662b89f0b9ca7598f7433470a4a4ccd4e1e41ca83691596949e773d7bd2f7127427437888ccb37d35d06d33cc76f6a13831c3a0669a6bf941e") << OP_CHECKSIG;
         CBlock block;
         block.vtx.push_back(txNew);
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1513219446;
+        block.nTime    = 1643503584;
         block.nBits    = 0x1e0ffff0;
-        block.nNonce   = 2085105452;
+        block.nNonce   = 2086473051;
 
         if (fTestNet)
         {
@@ -2801,7 +2801,7 @@ bool InitBlockIndex() {
             block.nNonce   = 387675336;
         }
 
-if (false && block.GetHash() != hashGenesisBlock)
+if (true && block.GetHash() != hashGenesisBlock)
         {
             printf("Searching for genesis block...\n");
             // This will figure out a valid hash and Nonce if you're
@@ -2849,7 +2849,7 @@ if (false && block.GetHash() != hashGenesisBlock)
         printf("%s\n", hash.ToString().c_str());
         printf("%s\n", hashGenesisBlock.ToString().c_str());
         printf("%s\n", block.hashMerkleRoot.ToString().c_str());
-        assert(block.hashMerkleRoot == uint256("0xfbed20fa3943533e70a9bed6a78bbc8ec901aa9231125f7ef91cd32198a182ce"));
+        assert(block.hashMerkleRoot == uint256("0xe77078f8525f116d68c0aab107a7d32a8e299254022b5d3cde7c3664868a08a9"));
         block.print();
         assert(hash == hashGenesisBlock);
 
